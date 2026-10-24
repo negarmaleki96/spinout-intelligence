@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/spinout_intelligence/__init__.py
+src/spinout_intelligence/app.py
+src/spinout_intelligence/cli.py
+src/spinout_intelligence.egg-info/PKG-INFO
+src/spinout_intelligence.egg-info/SOURCES.txt
+src/spinout_intelligence.egg-info/dependency_links.txt
+src/spinout_intelligence.egg-info/entry_points.txt
+src/spinout_intelligence.egg-info/requires.txt
+src/spinout_intelligence.egg-info/top_level.txt
+tests/test_normalization.py
